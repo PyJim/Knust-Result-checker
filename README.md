@@ -1,1 +1,1 @@
-# Knust-Result-checker
+# Knust-Result-checker-bot
